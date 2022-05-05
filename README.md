@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/zawminoomm/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F3%2Fmerge)](https://dev.azure.com/zawminoomm/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=3&branchName=refs%2Fpull%2F3%2Fmerge)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
